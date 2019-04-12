@@ -83,6 +83,7 @@ For example, we need to convert system.new.dat to system.img
 2 files are required: system.new.dat & system.transfer.list
 
 	sdat2img system.transfer.list system.new.dat system.img
+	sdat2img vendor.transfer.list system.new.dat vendor.img
 ##
 ### .bin to .img ( mountable format ) ###
 
